@@ -9,9 +9,9 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 
 | Difficulty | Count | Link |
 |------------|-------|------|
-| Easy       | 1    | [Easy Problems](./01_Easy/) |
-| Medium     | 0    | [Medium Problems](./02_Medium/) |
-| Hard       | 0    | [Hard Problems](./03_Hard/) |
+| Easy       | 1    | [Easy Problems](./leetcode-solutions/01_Easy/) |
+| Medium     | 0    | [Medium Problems](./leetcode-solutions/02_Medium/) |
+| Hard       | 0    | [Hard Problems](./leetcode-solutions/03_Hard/) |
 
 
 ---
@@ -21,7 +21,7 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 ### 🟢 Easy
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./01_Easy/two-sum/solution.py) |  [README](./01_Easy/two-sum/README.md) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./leetcode-solutions/01_Easy/two-sum/solution.py) |  [README](./leetcode-solutions/01_Easy/two-sum/README.md) |
 
 
 ### 🟡 Medium
