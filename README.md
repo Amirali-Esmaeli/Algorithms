@@ -2,10 +2,10 @@
 
 Well-structured and explained LeetCode problem solutions, categorized by difficulty
 
-## 🧠 Languages Used
+## Languages Used
 - Python
 
-## ✅ Problem Categories
+## Problem Categories
 
 | Difficulty | Count | Link |
 |------------|-------|------|
@@ -16,7 +16,7 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 
 ---
 
-## 📂 Problem Index
+## Problem Index
 
 ### 🟢 Easy
 | # | Title | Code | Explanation |
