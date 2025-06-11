@@ -10,7 +10,7 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 | Difficulty | Count | Link |
 |------------|-------|------|
 | Easy       | 1    | [Easy Problems](./leetcode-solutions/01_Easy/) |
-| Medium     | 0    | [Medium Problems](./leetcode-solutions/02_Medium/) |
+| Medium     | 1    | [Medium Problems](./leetcode-solutions/02_Medium/) |
 | Hard       | 0    | [Hard Problems](./leetcode-solutions/03_Hard/) |
 
 
