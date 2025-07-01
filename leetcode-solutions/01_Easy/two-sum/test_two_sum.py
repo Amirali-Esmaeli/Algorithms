@@ -1,4 +1,4 @@
-from solution import Solution
+from solution_two_sum import Solution
 
 def test_example_case():
     nums = [2, 7, 11, 15]
