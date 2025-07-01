@@ -21,13 +21,14 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 ### 🟢 Easy
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./leetcode-solutions/01_Easy/two-sum/solution.py) |  [README](./leetcode-solutions/01_Easy/two-sum/README.md) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./leetcode-solutions/01_Easy/two-sum/solution_two_sum.py) |  [README](./leetcode-solutions/01_Easy/two-sum/README.md) |
 
 
 ### 🟡 Medium
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
-
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Code](./leetcode-solutions/02_Medium/add-two-numbers/solution_add_two_numbers.py) |  [README](./leetcode-solutions/02_Medium/add-two-numbers/README.md) |
+  
 ### 🔴 Hard
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
