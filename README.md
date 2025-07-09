@@ -9,7 +9,7 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 
 | Difficulty | Count | Link |
 |------------|-------|------|
-| Easy       | 1    | [Easy Problems](./leetcode-solutions/01_Easy/) |
+| Easy       | 2    | [Easy Problems](./leetcode-solutions/01_Easy/) |
 | Medium     | 1    | [Medium Problems](./leetcode-solutions/02_Medium/) |
 | Hard       | 0    | [Hard Problems](./leetcode-solutions/03_Hard/) |
 
@@ -22,6 +22,7 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./leetcode-solutions/01_Easy/two-sum/solution_two_sum.py) |  [README](./leetcode-solutions/01_Easy/two-sum/README.md) |
+| 2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Code](./leetcode-solutions/01_Easy/two-sum/solution_palindrome_number.py) |  [README](./leetcode-solutions/01_Easy/palindrome-number/README.md) |
 
 
 ### 🟡 Medium
