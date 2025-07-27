@@ -1,6 +1,7 @@
 import pytest
 from solution_add_two_numbers import ListNode, Solution
 
+
 def to_linked_list(lst):
     dummy = ListNode()
     current = dummy
@@ -9,6 +10,7 @@ def to_linked_list(lst):
         current = current.next
     return dummy.next
 
+
 def to_list(node):
     out = []
     while node:
@@ -16,16 +18,16 @@ def to_list(node):
         node = node.next
     return out
 
+
 @pytest.mark.parametrize(
     "l1, l2, expected",
     [
-        ([2,4,3], [5,6,4], [7,0,8]),
+        ([2, 4, 3], [5, 6, 4], [7, 0, 8]),
         ([0], [0], [0]),
-        ([9,9,9,9,9,9,9], [9,9,9,9], [8,9,9,9,0,0,0,1]),
-        ([5], [5], [0,1]),
-    ]
+        ([9, 9, 9, 9, 9, 9, 9], [9, 9, 9, 9], [8, 9, 9, 9, 0, 0, 0, 1]),
+        ([5], [5], [0, 1]),
+    ],
 )
-
 def test_add_two_numbers(l1, l2, expected):
     s = Solution()
     l1_node = to_linked_list(l1)

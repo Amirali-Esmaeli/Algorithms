@@ -4,12 +4,13 @@
 # Input: x = 121
 # Output: true
 
+
 # Solution – String Reverse O(log₁₀(x))
 class Solution:
     def isPalindrome(self, x):
         if x < 0:
             return False
-        
+
         original = x
         reverse = 0
         while x > 0:
