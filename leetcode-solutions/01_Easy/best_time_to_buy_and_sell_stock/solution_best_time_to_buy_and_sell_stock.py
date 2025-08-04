@@ -7,14 +7,15 @@
 
 # Solution – Two Pointer O(n)
 
+
 class Solution(object):
     def maxProfit(self, prices):
-        l ,r = 0,1
+        l, r = 0, 1
         max_profit = 0
         while r < len(prices):
             if prices[l] < prices[r]:
-                profit = prices[r] - prices[l] 
-                max_profit = max(profit,max_profit)
+                profit = prices[r] - prices[l]
+                max_profit = max(profit, max_profit)
             else:
                 l = r
             r += 1
