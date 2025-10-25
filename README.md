@@ -1,6 +1,6 @@
-# LeetCode Solutions by [AmiraliEsmaili]
+# Algoritms Solutions by [AmiraliEsmaili]
 
-Well-structured and explained LeetCode problem solutions, categorized by difficulty
+Well-structured and explained LeetCode & Codeforces problem solutions, categorized by difficulty
 
 ## Languages Used
 - Python
@@ -12,6 +12,8 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 | Easy       | 4    | [Easy Problems](./leetcode-solutions/01_Easy/) |
 | Medium     | 1    | [Medium Problems](./leetcode-solutions/02_Medium/) |
 | Hard       | 0    | [Hard Problems](./leetcode-solutions/03_Hard/) |
+| A       | 0    | [A Problems](./codeforces-solutions/A/) |
+| B       | 0    | [B Problems](./codeforces-solutions/B/) |
 
 
 ---
@@ -33,5 +35,14 @@ Well-structured and explained LeetCode problem solutions, categorized by difficu
 | 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Code](./leetcode-solutions/02_Medium/add-two-numbers/solution_add_two_numbers.py) |  [README](./leetcode-solutions/02_Medium/add-two-numbers/README.md) |
   
 ### 🔴 Hard
+| # | Title | Code | Explanation |
+|---|-------|------|-------------|
+
+
+### A
+| # | Title | Code | Explanation |
+|---|-------|------|-------------|
+
+### B
 | # | Title | Code | Explanation |
 |---|-------|------|-------------|
